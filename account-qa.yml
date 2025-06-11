@@ -3,7 +3,7 @@ build:
 
 contact:
   message: "Welcome to EazyBank accounts related QA APIs "
-  contactDetails:
+  details:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
   onCallSupport:

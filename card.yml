@@ -3,7 +3,7 @@ build:
 
 contact:
   message: "Welcome to EazyBank cards related local APIs "
-  contactDetails:
+  details:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
   onCallSupport:

@@ -3,7 +3,7 @@ build:
 
 contact:
   message: "Hey, welcome to EazyBank loans related prod APIs "
-  contactDetails:
+  details:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}48e0c8f8de4424a3d7b75a83cf46b6186c6ca195438b367c9b05866637d3bf5309c0a24d0ed2b35d2994f571069d2f12"
   onCallSupport:
